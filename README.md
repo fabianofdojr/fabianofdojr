@@ -22,7 +22,7 @@
 
 **Sobre mim!**
 
-- 👨🏽‍💻 Me chamo Fabiano Oliveira,sou aluno da 7ª Edição do Programa Starter da Growdev - Full Stack Developer.
+- 👨🏽‍💻 Me chamo Fabiano Oliveira, sou aluno da 7ª Edição do Programa Starter da Growdev - Full Stack Developer.
 - 🌱  Estudante e entusiasta em tecnologia e programação. 
 - 🎵 Músicas, séries e jogos.
 - 📫 Email para contato [fabianodutrajunior2014@gmail.com](mailto:fabianodutrajunior2014@gmail.com).
