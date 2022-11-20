@@ -8,21 +8,22 @@
 <a href="https://twitter.com/Fabiano_fdojr">
   <img align="center" alt="Fabiano Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
-
-<div align="center">
+<br />
+<br />
+<div align="left">
   <a href="https://github.com/fabianofdojr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianofdojr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianofdojr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianofdojr&layout=compact&langs_count=7&theme=dracula"/>
+</div align="center">
+  <div>
+    <img width="105px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  </div>
 
 
 <br />
 <br />
 
 **Principiante** em Programação🚀.
- 
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Sobre mim!**
 
