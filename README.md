@@ -2,11 +2,11 @@
 
 
 <a href="https://www.instagram.com/fabianofdojr/">
-  <img align="center" alt="Fabiano Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Fabiano Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </a>
 <a href="https://twitter.com/Fabiano_fdojr">
-  <img align="center" alt="Fabiano Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="center" alt="Fabiano Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
 <div align="center">
