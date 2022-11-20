@@ -9,7 +9,7 @@
   <img align="left" alt="Fabiano Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={fabianofdojr}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username=fabianofdojr&theme=blue-green
 
 
 <br />
