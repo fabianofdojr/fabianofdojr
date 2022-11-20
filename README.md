@@ -1,9 +1,8 @@
-<div align="center">
+<div align="center">Cancel changes
 <h3 title="title"> Olá 👋, Seja bem vindo!</h3>
 <h3 title="title"> Working hard...</h3>
-<img align="center" width="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="center" width="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
-
 <div align="center">
   <a href="mailto:fabianodutrajunior2014@gmail.com">
   <img align="center" alt="Fabiano G-mail" width="52px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
