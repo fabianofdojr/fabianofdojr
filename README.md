@@ -9,7 +9,11 @@
   <img align="left" alt="Fabiano Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=fabianofdojr&theme=blue-green
+<div align="center">
+  <a href="https://github.com/fabianofdojr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianofdojr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianofdojr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 <br />
