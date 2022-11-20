@@ -36,8 +36,6 @@
 <br />
 <div align="center">
 Principiante em Programação🚀.
-  
-Sobre mim!
 
 <h4>👋🏻 Me chamo Fabiano Oliveira, sou aluno da 7ª Edição do Programa Starter da Growdev - Full Stack Developer.</h4>
 <h4>📚 Estudante e entusiasta em tecnologia e programação.</h4> 
