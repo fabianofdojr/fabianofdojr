@@ -1,5 +1,5 @@
 <div align="center">
-<h3 title="title"> Olá 👋, Seja bem vindo!</h3>
+<h3 title="title"> Olá ✌️, Seja bem vindo!</h3>
 <h3 title="title"> Working hard...</h3>
 <img align="center" width="260px" alt="GIF" src="https://github.com/fabianofdojr/fabianofdojr/blob/main/giphy.gif" />
 </div>
